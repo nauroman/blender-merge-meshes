@@ -3,7 +3,7 @@ bl_info = {
     "description": "Merge all mesh objects in the scene into a single mesh",
     "author": "Roman Naumov",
     "version": (1, 0, 0),
-    "blender": (4, 4, 0),
+    "blender": (4, 2, 0),
     "location": "3D Viewport > Add > Mesh > Merge Meshes",
     "warning": "",
     "wiki_url": "",
